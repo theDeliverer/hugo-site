@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "TruRating"
+theme = "Ananke"
+
+
+[languages]
+[languages.en]
+title = "My blog"
+weight = 1
+linkedin = "english-link"
+
+[languages.fr]
+copyright = "Tout est à moi"
+title = "Mon blog"
+weight = 2
+linkedin = "lien-francais"
