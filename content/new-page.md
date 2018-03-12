@@ -4,4 +4,4 @@ draft = true
 title = "New page"
 
 +++
-
+This is a test for a new page
