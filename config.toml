@@ -15,3 +15,10 @@ copyright = "Tout est à moi"
 title = "Mon blog"
 weight = 2
 linkedin = "lien-francais"
+
+
+[languages.ca]
+copyright = "Tout est à moi"
+title = "Mon blog"
+weight = 2
+linkedin = "lien-francais"
