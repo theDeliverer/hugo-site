@@ -6,4 +6,4 @@ hero:
   title: "Push Today. Better Tomorrow. udhu"
 ---
 
-# FRENCH TRANSLATION
+# This is homepage content

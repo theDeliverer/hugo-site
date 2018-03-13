@@ -16,8 +16,7 @@ title = "Mon blog"
 weight = 2
 linkedin = "lien-francais"
 
-
-[languages.ca]
+[languages.ca-fr]
 copyright = "Tout est à moi"
 title = "Mon blog"
 weight = 2
