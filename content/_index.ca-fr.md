@@ -1,5 +1,5 @@
 ---
-title: Site
+title: Site - [ca-fr]
 date: 2018-03-12 10:11:04 +0000
 hero:
   title: Push Today. Better Tomorrow. udhu
