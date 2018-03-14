@@ -4,3 +4,4 @@ fields:
 - type: text
   name: testingte
   label: Testing
+- type: file
